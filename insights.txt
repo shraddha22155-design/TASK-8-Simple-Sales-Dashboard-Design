@@ -1,0 +1,4 @@
+1) Top region by sales: West with total sales = 725,457.82.
+2) Top category by sales: Technology with total sales = 836,154.03.
+3) Peak sales month: March 2014 with sales = 36,988.46.
+4) Recommendation: Add Region and Category slicers; investigate peak-month promotions and consider scaling successful category-region combinations.
